@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Portfolio</title>
+<link href="css/styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <h1>HI I'm LEE</h1>
+
+<p><font size="6">THAT'S ME</font></p>
+<p><img src="img/lee.jpg" width="300" height="300" alt="A photo of Me">
+<p>Why did i pick to do software engineering? Because i'm obsesed with anything related to tech, it's constantly growing and i wanna be part of that movement</p>
+
+<h2><span class='heading'>About me</span></h2>
+<p>I'm Lee (you already know that). I am 17 years old born on a very special day (12/24/2000). I recently cleared high-school, fininshing my IGCSE. I have a huge passion
+  for gaming i feel like i've been playing it all my life, gone to plenty of tournaments and events regarding gaming and won some ofcourse. I love to play sports. My
+sports are Football, Basketball, and Swimming.</p>
+<h2><span class="headings"> Projects i have worked on </span></h2>
+  <figure><a href="https://github.com/Monroe100/first-website"><img src="img/first.jpeg" width="500" height="350"></a><figcaption> This project is about the first website we created.</figcaption></figure>
+  <figure><a href="https://github.com/Monroe100/travel-agency"><img src="img/travel.jpeg" width="500" height="350"></a><figcaption> This project is about a travel agency website we were supposed to make for a client</figcaption></figure>
+  <h2><div class="headings">IF YOU WANNA FOLLOW ME, MY LINKS ARE BELOW</div></h2>
+       <ul>
+        <li>
+           <a href="https://www.facebook.com/lee.mutahi"><img src="img/facebook.png" width="200" height="150 alt="Facebook"></a>
+         </li>
+
+         <li>
+           <a href="https://www.instagram.com/not_ua_average_memez/"><img src="img/insta.png" width="200" height="150 alt="Instagram Icon"></a>
+         </li>
+       </ul>
+
+</body>
+</html>

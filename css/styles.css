@@ -1,0 +1,65 @@
+h1 {
+  border: 2.5px solid #969696;
+  color :black;
+}
+h1 {
+text-align: center;
+}
+}
+body > p {
+font-weight:bold;
+}
+h1{
+text-align: center;
+color: #17202A;
+font-family: sans-serif;
+font-weight: bold;
+}
+h3{
+text-align: center;
+color: #17202A;
+font-family: sans-serif;
+font-weight: bold;
+}
+.headings{
+font-family: sans-serif;
+color: #17202A;
+text-align: center;
+}
+.bodys {
+
+color: #17202A;
+font-family: sans-serif;
+display: inline;
+width: 78%;
+float: left;
+padding-top: 2%;
+line-height: 1.9em;
+padding-left: 1.5%;
+}
+
+
+}
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #33333A;
+  float: left;
+}
+li a:hover {
+  background-color: #111111;
+
+}
+li {
+  float: center;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+}
+  p
+{font size:20px}
